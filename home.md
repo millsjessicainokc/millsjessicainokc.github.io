@@ -16,5 +16,7 @@ twitter.com/okcjessmills
 Millsjessicainokc@gmail.com
 
 # My blogs
+
 https://dev.to/millsjessicainokc/my-first-blog-49n
+
 https://dev.to/millsjessicainokc/git-advice-from-a-beginner-for-a-beginner-1h40
