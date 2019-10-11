@@ -12,9 +12,11 @@ To be financially stable.
 
 millsjessicainokc.github.io
 
+https://www.linkedin.com/in/jessica-mills-okcok/
+
 twitter.com/okcjessmills
 
-Millsjessicainokc@gmail.com
+millsjessicainokc@gmail.com
 
 # My blogs
 
