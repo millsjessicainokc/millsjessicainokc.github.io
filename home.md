@@ -10,9 +10,10 @@ To be financially stable.
 
 # Contact Me
 
-You can contact me at:
 millsjessicainokc.github.io
+
 twitter.com/okcjessmills
+
 Millsjessicainokc@gmail.com
 
 # My blogs
