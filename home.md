@@ -6,7 +6,7 @@ I am new in the tech world.
 # Goals
 
 My goal is to learn to code, eventually web development. To have a good job where I make good money. 
-To be financially stable.
+To be financially stable and not have to live paycheck to paycheck. 
 
 # Contact Me
 
