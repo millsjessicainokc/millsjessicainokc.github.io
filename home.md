@@ -1,6 +1,6 @@
 # About Me
 
-My name is Jessica I am a loving, motivated, and extremely grateful mother, wife, and student. 
+My name is Jessica I am a loving, motivated, and extremely grateful mother of five younger chldren and two adult children.  I am a wife and a student at MetroTech in Ctrl+shiftcode school. 
 I am new in the tech world.
 
 # Goals
