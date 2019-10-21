@@ -23,3 +23,5 @@ millsjessicainokc@gmail.com
 https://dev.to/millsjessicainokc/my-first-blog-49n
 
 https://dev.to/millsjessicainokc/git-advice-from-a-beginner-for-a-beginner-1h40
+
+https://dev.to/millsjessicainokc/html-tips-3o6h
