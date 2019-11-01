@@ -43,6 +43,8 @@ Table of Contents
 body {
   font-family: 'Khula', sans-serif;
   font-weight: 400;
+  margin: 0;
+  background-color: white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -62,18 +64,17 @@ body{
     background-color: #EBE4DE;
 }
 
+html {
+  background-color: rgb(102, 75, 58);
+}
+
 
  a {		
 	text-decoration: none;
-	color: #fff;
-}
+ }
 
 a:hover {
-	color: #F769C2;
-}
-
-a:active {
-	color: hotpink;
+  border-bottom: 2px solid black;
 }
 
  ul li {
@@ -84,15 +85,24 @@ a:active {
 
 /*#################################################### -Header ####################################################*/
 header{
-	
-	background-color: #9B9A94;			
+  background-color: 	#3498db;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.nav {
-	padding: 12px;
+.nav-container {
+  display: flex;
+  font-size: 20px;
 }
 
-   .hidden {
+.nav-container div {
+  margin-left: 20px;
+}
+
+
+  .hidden {
     position:absolute;
     top:auto;
     width:1px;
@@ -109,6 +119,8 @@ div .hero{
  }
 
 main{
+  width: 100%;
+  height: 100vh;
 	padding: 5%;
 }
 
@@ -121,11 +133,11 @@ main{
 /*#################### -Form #########################*/
 
 form{
-	max-width: 650px;
+	max-width: 900px;
 	font-size: 16px;
-	background: #E0CBC4;
-	padding: 30px 30px 15px 30px;
-	border: 5px solid #9B9A94;
+	background: rgb(178, 171, 189);
+	padding: 10px 30px 15px 30px;
+	border: 5px solid rgb(109, 62, 43);
 }
 
 fieldset {
@@ -185,3 +197,10 @@ footer{
       }
 
       ------*/
+
+      /* styling for my blog page */
+      .main-container {
+        width: 100%;
+        height: 100vh;
+        color: white;
+      }
